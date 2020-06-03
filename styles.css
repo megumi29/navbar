@@ -1,6 +1,5 @@
 /* Mobile Styles ------------------------------->*/
 
-
 /* Base */  
 * {
     box-sizing: border-box;
@@ -82,7 +81,6 @@
 }
 
 /* Desktop Styles -------------------------------> */
-
 @media (min-width: 550px) {
     .toggle-button{
         display: none;

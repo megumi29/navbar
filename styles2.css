@@ -1,0 +1,46 @@
+/* Mobile Styles ----------------> */
+/* Base */
+* {
+   box-sizing: border-box; 
+   margin: 0;
+   padding: 0;
+}
+
+li {
+    list-style: none;
+}
+
+p {
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Layout */
+.header{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Blocks */
+.navbar {
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #333;
+}
+
+.navbar-links a {
+    color: white;
+}
+
+
+/* Desktop Styles ----------------> */
+@media (min-width: 550px) {
+/* base */
+/* layout */
+/* blocks */
+}
